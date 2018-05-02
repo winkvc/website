@@ -1,5 +1,5 @@
 var fullCycleMs = 5000;
-var winkTimeMs = 250;
+var winkTimeMs = 500;
 
 function startWink() {
   document.getElementById("winky").innerHTML= ";)";
