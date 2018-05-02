@@ -4,9 +4,8 @@ h1 {
 }
 
 .centered {
-  position: fixed; /* or absolute */
-  top: 30%;
+  position: fixed;
+  top: 30%; /* because height is 30vh */
   left: 50%;
-  /* bring your own prefixes */
   transform: translate(-50%, -50%);
 }
