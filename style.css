@@ -1,11 +1,11 @@
 h1 {
-  font-family: 'Do Hyeon', sans-serif;
+  font-family: 'Oxygen', sans-serif;
   font-size: 30vh;
 }
 
 .centered {
   position: fixed; /* or absolute */
-  top: 35%;
+  top: 30%;
   left: 50%;
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
