@@ -1,11 +1,17 @@
 h1 {
   font-family: 'Oxygen', sans-serif;
   font-size: 30vh;
+  color: #311
 }
 
 .centered {
   position: fixed;
-  top: 30%; /* because height is 30vh */
+  top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+html, body {
+  height: 100%;
+  background-color: #eee;
 }
